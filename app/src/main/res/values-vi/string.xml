@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Nhập tiêu đề cho sự vi phạm</string>
+    <string name="crime_title_label">Tiêu đề</string>
+    <string name="crime_details_label">Chi tiết</string>
+    <string name="crime_solved_label">Đã phạt</string>
+    <string name="date_picker_title">Ngày vi phạm:</string>
+    <string name="new_crime">Tạo mới</string>
+    <string name="show_subtitle">Hiện số lượng</string>
+    <string name="hide_subtitle">Ẩn số lượng</string>
+    <string name="subtitle_format">%1$d sự vi phạm</string>
+
+    <string name="crime_suspect_text">Chọn người tình nghi</string>
+    <string name="crime_report_text">Báo vi phạm</string>
+    <string name="crime_report">%1$s! Hành vi vi phạm được phát hiện ở %2$s. %3$s, và %4$s </string>
+    <string name="crime_report_solved">Đã giải quyết</string>
+    <string name="crime_report_unsolved">Chưa giải quyết</string>
+    <string name="crime_report_no_suspect">Không phải tình nghi</string>
+    <string name="crime_report_suspect">Người tình nghi là %s</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Báo vi phạm thông qua</string>
+</resources>
